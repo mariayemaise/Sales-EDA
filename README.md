@@ -1,4 +1,4 @@
-## Sales-EDA
+# Sales-EDA
 # Overview
 
 This repository contains an exploratory data analysis (EDA) performed on a sales dataset obtained from Kaggle. The analysis was conducted using Python, with key libraries including Pandas, Seaborn, and Matplotlib.pyplot.
@@ -21,5 +21,6 @@ Pandas: Used for data manipulation and analysis
 Seaborn: Utilized for creating informative and visually appealing visualizations
 Matplotlib.pyplot: Employed for additional plotting and customization options
 
-Conclusion
+# Conclusion
+
 The analysis provides valuable insights into the sales performance of the retail store, highlighting regional variations, popular product categories, and customer segment preferences. These insights can inform strategic decision-making and help optimize marketing efforts and resource allocation.
